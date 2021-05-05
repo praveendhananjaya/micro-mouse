@@ -1,5 +1,17 @@
 # micro-mouse
 
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/20190911175233.gif?raw=true)
+
+
+# PCB 
+
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/IMG-20180806-WA0007.jpg?raw=true)
+
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/IMG-20180806-WA0012.jpg?raw=true)
+
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/WhatsApp%20Image%202021-05-01%20at%202.47.12%20PM.jpeg?raw=true)
+
+
 A Micromouse is a small robotic vehicle designed to navigate its way through an unknown maze. It is an autonomous, battery-operated, and self-contained robot that utilizes maze-solving algorithms to find the optimal route with the shortest run time to the center of the maze.
 
 ## Wall follower 
