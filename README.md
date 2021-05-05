@@ -8,6 +8,10 @@ A Micromouse is a small robotic vehicle designed to navigate its way through an 
 ![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/20190911175233.gif?raw=true)
 
 
+## testing
+
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/test.gif?raw=true)
+
 # PCB 
 
 ![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/IMG-20180806-WA0007.jpg?raw=true)
@@ -31,7 +35,3 @@ shorted path selected by flood fill. Flood fill, also called seed fill, is an al
 
 ![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/flood_fill.gif?raw=true)
 
-
-
-
-Environment Setup
