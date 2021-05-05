@@ -10,3 +10,13 @@ micromouse initial testing done by Wall following algorithm.(left-hand rule or t
 ![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/right_al.gif?raw=true)
 
 
+## flood fill
+
+shorted path selected by flood fill. Flood fill, also called seed fill, is an algorithm that determines and alters the area connected to a given node in a multi-dimensional array with some matching attribute. ... Note that flood filling is not suitable for drawing filled polygons, as it will miss some pixels in more acute corners
+
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/flood_fill.gif?raw=true)
+
+
+
+
+Environment Setup
