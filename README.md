@@ -22,6 +22,15 @@ A Micromouse is a small robotic vehicle designed to navigate its way through an 
 ![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/Schematic_microMouse2019_2021-05-07.png?raw=true)
 
 
+## ambient filtering
+
+
+
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/Block_Diagram.png?raw=true)
+
+
+
+
 ## sensor placement
 
 behavior that will cause the robot to move parallel to the obstacle and even move away from the goal if needed to move around a non-convex obstacle.
