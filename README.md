@@ -24,7 +24,7 @@ A Micromouse is a small robotic vehicle designed to navigate its way through an 
 
 ## ambient filtering
 
-/************The received signal is sampled and integrated to determine if the target object is near or far away. With proper calibration, and if the reflectivity of the target (such as wall) is known, the distance can be computed. Reflectivity depends on unpredictable factors such as the presence of angle between wall and robot, which can prevent accurate distance calculation. However, assumptions can be made to create a proximity sensor enabling the robot wall margin to be turned  on algorithem when the robot is near the wall , as well as allowing automatic aligmnet  and speed control as the phone is moved closer or further away.
+The received signal is sampled and integrated to determine if the target object is near or far away. With proper calibration, and if the reflectivity of the target (such as wall) is known, the distance can be computed. Reflectivity depends on unpredictable factors such as the presence of angle between wall and robot and ambient light noise , which can prevent accurate distance calculation using ambient filter.
 
 
 
