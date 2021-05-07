@@ -19,6 +19,10 @@ A Micromouse is a small robotic vehicle designed to navigate its way through an 
 ![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/IMG-20180806-WA0012.jpg?raw=true)
 
 
+![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/Schematic_microMouse2019_2021-05-07.png?raw=true)
+
+
+
 
 
 ## Wall follower 
