@@ -2,6 +2,9 @@
 
 A Micromouse is a small robotic vehicle designed to navigate its way through an unknown maze. It is an autonomous, battery-operated, and self-contained robot that utilizes maze-solving algorithms to find the optimal route with the shortest run time to the center of the maze.
 
+14×14 Maze-solving robot. Arduino Uno base robot with schedule base multi multiprocessing. the robot navigates to target using A* algorithm and using flood fill algorithm find out the shortest path, Custom PCB, IR base sensors with active filtering.  
+
+
 
 ![alt text](https://github.com/praveendhananjaya/micro-mouse/blob/main/doc/WhatsApp%20Image%202021-05-01%20at%202.47.12%20PM.jpeg?raw=true)
 
